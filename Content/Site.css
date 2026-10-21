@@ -1,7 +1,4 @@
-/* ==========================================================================
-   QuizLearn Design System & Theme Styles
-   Aesthetic: Sleek Dark Mode with Refined Purple Accents & High Visual Polish
-   ========================================================================== */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
 
@@ -322,9 +319,6 @@ a {
     fill: currentColor;
 }
 
-/* ==========================================================================
-   Hero Section
-   ========================================================================== */
 .ql-hero {
     padding: 80px 0 60px 0;
     text-align: center;
@@ -359,9 +353,7 @@ a {
     flex-wrap: wrap;
 }
 
-/* ==========================================================================
-   Interactive Quiz Preview Window
-   ========================================================================== */
+
 .ql-quiz-showcase {
     max-width: 980px;
     margin: 0 auto;
@@ -682,9 +674,6 @@ a {
     opacity: 0.75;
 }
 
-/* ==========================================================================
-   Features Section (4 Cards)
-   ========================================================================== */
 .ql-features-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -756,9 +745,7 @@ a {
     margin: 0;
 }
 
-/* ==========================================================================
-   How It Works Section (3 Cards with UI Mockup Illustrations)
-   ========================================================================== */
+
 .ql-steps-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -939,9 +926,7 @@ a {
     background: linear-gradient(180deg, #8b5cf6, #6366f1);
 }
 
-/* ==========================================================================
-   AI Assistant Section
-   ========================================================================== */
+
 .ql-ai-section {
     background: linear-gradient(180deg, transparent, rgba(124, 58, 237, 0.04), transparent);
 }
@@ -1115,9 +1100,7 @@ a {
     fill: currentColor;
 }
 
-/* ==========================================================================
-   Statistics Section
-   ========================================================================== */
+
 .ql-stats-bar {
     background: var(--bg-card);
     border: 1px solid var(--border-card);
